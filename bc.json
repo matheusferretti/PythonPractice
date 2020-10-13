@@ -145,7 +145,7 @@
         {
             "slug": "09-Random-Numbers",
             "title": "09-Random-Numbers",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Random-Numbers",
             "translations": [
                 "es",
