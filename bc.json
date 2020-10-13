@@ -156,7 +156,7 @@
         {
             "slug": "10-Calling-Your-First-Function",
             "title": "10-Calling-Your-First-Function",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Calling-Your-First-Function",
             "translations": [
                 "es",
