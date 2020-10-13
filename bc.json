@@ -101,7 +101,7 @@
         {
             "slug": "06-String-Concatenation",
             "title": "06-String-Concatenation",
-            "done": false,
+            "done": true,
             "path": "exercises/06-String-Concatenation",
             "translations": [
                 "es",
