@@ -46,7 +46,7 @@
         {
             "slug": "01-Console",
             "title": "01-Console",
-            "done": false,
+            "done": true,
             "path": "exercises/01-Console",
             "translations": [
                 "es",
@@ -57,7 +57,7 @@
         {
             "slug": "02-Declare-Variables",
             "title": "02-Declare-Variables",
-            "done": false,
+            "done": true,
             "path": "exercises/02-Declare-Variables",
             "translations": [
                 "es",
