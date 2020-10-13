@@ -134,7 +134,7 @@
         {
             "slug": "08.1-How-Much-The-Wedding-Costs",
             "title": "08.1-How-Much-The-Wedding-Costs",
-            "done": false,
+            "done": true,
             "path": "exercises/08.1-How-Much-The-Wedding-Costs",
             "translations": [
                 "es",
