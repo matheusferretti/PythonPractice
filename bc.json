@@ -189,7 +189,7 @@
         {
             "slug": "14-Rand-From-One-to-Six",
             "title": "14-Rand-From-One-to-Six",
-            "done": false,
+            "done": true,
             "path": "exercises/14-Rand-From-One-to-Six",
             "translations": [
                 "es",
