@@ -178,7 +178,7 @@
         {
             "slug": "11-Create-A-New-Function",
             "title": "11-Create-A-New-Function",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Create-A-New-Function",
             "translations": [
                 "es",
