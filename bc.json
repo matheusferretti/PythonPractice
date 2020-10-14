@@ -200,7 +200,7 @@
         {
             "slug": "15-Your-First-Loop",
             "title": "15-Your-First-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/15-Your-First-Loop",
             "translations": [
                 "es",
