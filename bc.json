@@ -222,7 +222,7 @@
         {
             "slug": "18-Random-Colors-Loop",
             "title": "18-Random-Colors-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/18-Random-Colors-Loop",
             "translations": [
                 "es",
