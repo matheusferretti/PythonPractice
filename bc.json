@@ -211,7 +211,7 @@
         {
             "slug": "16-Create-A-For-Loop",
             "title": "16-Create-A-For-Loop",
-            "done": false,
+            "done": true,
             "path": "exercises/16-Create-A-For-Loop",
             "translations": [
                 "es",
