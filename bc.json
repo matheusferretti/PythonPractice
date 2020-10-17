@@ -244,7 +244,7 @@
         {
             "slug": "20-Russian-Roulette",
             "title": "20-Russian-Roulette",
-            "done": false,
+            "done": true,
             "path": "exercises/20-Russian-Roulette",
             "translations": [
                 "es",
